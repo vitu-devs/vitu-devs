@@ -1,7 +1,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=4169E1&vCenter=true&width=1000&lines=Olá!+Eu+sou+Victor+Henrique+👨‍💻;Engenheiro+de+Dados+%7C+Developer;Bem-vindo+ao+meu+GitHub!+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=4169E1&vCenter=true&width=1000&lines=Olá!+Eu+sou+Victor+Henrique+👨‍💻;Engenheiro+de+Dados+%7C+Developer+Python;Bem-vindo+ao+meu+GitHub!+🚀)](https://git.io/typing-svg)
 
 ---
 
@@ -46,15 +46,6 @@
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## 📈 Estatísticas GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitu-devs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitu-devs&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
 
 ---
 
