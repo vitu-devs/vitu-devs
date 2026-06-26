@@ -68,7 +68,7 @@ areas_foco = {
 
 ## 💼 Experiência
 
-🔸 **Analista de Dados Junior | Vitrio** (Mar 2026 - Jun 2026)
+🔸 **Analista de Dados Junior**
 
 - Desenvolvimento, deploy e documentação de dashboards de marketing do zero no Looker Studio.
 - Processamento de dados via SQL e criação de pipelines de integração entre múltiplas fontes.
