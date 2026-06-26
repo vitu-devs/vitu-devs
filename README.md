@@ -1,73 +1,65 @@
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=4169E1&vCenter=true&width=1000&lines=Olá!+Eu+sou+Victor+Henrique+👨‍💻;Engenheiro+de+Dados+%7C+Developer+Python;Bem-vindo+ao+meu+GitHub!+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=4169E1&vCenter=true&width=1000&lines=Olá!+Eu+sou+Victor+Henrique+de+Almeida+👨‍💻;Analista+de+Dados+Junior+%7C+BI+%7C+Analytics;Bem-vindo+ao+meu+GitHub!+🚀)](https://git.io/typing-svg)
 
 ---
 
 ## 🎯 Sobre Mim
 
-🔹 **Engenheiro de Dados** em formação, com experiência prática em **desenvolvimento e testes de software**  
-🔹 Focado em construir **pipelines de dados robustos** e **soluções escaláveis** para análise de negócios  
-🔹 Apaixonado por transformar **dados brutos em insights acionáveis**  
+🔹 **Analista de Dados Junior** com experiência consolidada na construção de dashboards end-to-end, automação de relatórios e integração de dados entre sistemas.  
+🔹 Especialista em **Power BI** e **Looker Studio**, com histórico comprovado em **Marketing Digital Analytics**, **Precificação** e **CRM**.  
+🔹 Domínio em **SQL avançado**, pipelines **ETL**, **REST API** e validação de dados em ambientes PaaS, garantindo indicadores confiáveis para tomada de decisão executiva.  
+🔹 Graduado como **Tecnólogo em Análise e Desenvolvimento de Sistemas** pela Universidade Santo Amaro (UNISA).  
 
-💼 Atualmente trabalho com **desenvolvimento e testes**, aplicando boas práticas de engenharia de software  
-🎓 Estudando **Engenharia de Dados** com foco em arquitetura moderna de dados e cloud computing  
-🎯 **Em busca da primeira oportunidade** como Engenheiro de Dados para aplicar conhecimentos em projetos reais  
-
-💡 Minha missão: criar **infraestruturas de dados eficientes** que permitam decisões baseadas em dados de forma rápida e confiável.
+💡 Minha missão: transformar grandes volumes de dados brutos em insights estratégicos e dashboards altamente intuitivos que impulsionam o crescimento do negócio.
 
 ---
 
 ## 🛠️ Stack Tecnológica
 
-### 💾 Bancos de Dados
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### 🐍 Linguagens & Ferramentas de Análise
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-
-### ⚙️ Engenharia de Dados & Big Data
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![ETL](https://img.shields.io/badge/ETL-FF6C37?style=for-the-badge&logo=databricks&logoColor=white)
-
-### 📊 Business Intelligence
+### 📊 Business Intelligence & Visualização
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Excel Avançado](https://img.shields.io/badge/Excel_Avançado-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+### 🐍 Linguagens & Análise de Dados
+![SQL Avançado](https://img.shields.io/badge/SQL_Avançado-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+### ⚙️ ETL, Modelagem & Integrações
+![Pipelines ETL](https://img.shields.io/badge/Pipelines_ETL-FF6C37?style=for-the-badge)
+![Modelagem Dimensional](https://img.shields.io/badge/Modelagem_Dimensional_(Star_Schema)-316192?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST_API-005C84?style=for-the-badge)
+![Plataformas PaaS](https://img.shields.io/badge/Plataformas_PaaS-47A248?style=for-the-badge)
+
+### 🛠️ Ferramentas de Gestão & Dev
+![Salesforce CRM](https://img.shields.io/badge/Salesforce_CRM-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 ---
 
-## 🚀 Áreas de Interesse
+## 🚀 Áreas de Foco
 
 ```python
 areas_foco = {
-    "Engenharia_de_Dados": [
-        "Pipelines ETL/ELT",
-        "Data Warehousing",
-        "Arquitetura de Dados",
-        "Processamento em Lote e Tempo Real"
+    "Business_Intelligence": [
+        "Dashboards End-to-End (Looker Studio & Power BI)",
+        "Prototipação de Layouts e UX no Figma",
+        "Data Storytelling & Suporte à Decisão Executiva"
     ],
-    "Ferramentas": [
-        "Databricks",
-        "Apache Spark",
-        "Airflow",
-        "dbt"
+    "Analytics_Estratégico": [
+        "Marketing Digital Analytics",
+        "Métricas de Precificação e CRM (Salesforce)",
+        "Análise de Interações Multicanais e Feedback de Clientes"
     ],
-    "Cloud": [
-        "AWS (S3, Redshift, Glue, Lambda)",
-        "Arquitetura Serverless"
+    "Engenharia_de_Dados_Soft": [
+        "Modelagem Dimensional (Star Schema)",
+        "Pipelines de Integração de Dados & REST APIs",
+        "Qualidade, Higienização e Validação de Dados em PaaS"
     ]
 }
 ```
@@ -75,6 +67,12 @@ areas_foco = {
 ---
 
 ## 💼 Experiência
+
+🔸 **Analista de Dados Junior | Vitrio** (Mar 2026 - Jun 2026)
+
+- Desenvolvimento, deploy e documentação de dashboards de marketing do zero no Looker Studio.
+- Processamento de dados via SQL e criação de pipelines de integração entre múltiplas fontes.
+- Prototipação de interfaces de painéis no Figma e automação de alertas de KPIs via Google Chat.
 
 🔸 **Desenvolvimento & Testes de Software**  
 - Aplicação de metodologias ágeis e boas práticas de desenvolvimento  
@@ -91,17 +89,17 @@ areas_foco = {
 
 ## 📫 Vamos Conectar?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-henrique-67613616a/)
-[![outlook](https://img.shields.io/badge/Outlook-blue?style=for-the-badge&logo=outlook)](victor_devv@outlook.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vitu-devs)
+[![LinkedIn|91](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-ddados/)
+[![outlook|87](https://img.shields.io/badge/gmail-yellow?style=for-the-badge&logo=gmail)](victor.ddados@gmail.com) victor.ddados@gmail.com
+[![GitHub|92](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vitu-devs)
 
 ---
 
 <div align="center">
   
-### 💭 "Dados são o novo petróleo, mas só têm valor quando refinados"
+### 💭 "Dados só têm valor quando transformados em respostas certas para as perguntas estratégicas."
   
-⭐ **Disponível para oportunidades como Engenheiro de Dados**  
+⭐ **Disponível para oportunidades como Analista de Dados e BI Specialist**  
 📧 Entre em contato para discutir projetos e oportunidades!
 
 </div>
