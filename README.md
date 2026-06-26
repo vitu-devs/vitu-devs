@@ -90,7 +90,7 @@ areas_foco = {
 ## 📫 Vamos Conectar?
 
 [![LinkedIn|91](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-ddados/)
-[![outlook|87](https://img.shields.io/badge/gmail-yellow?style=for-the-badge&logo=gmail)](victor.ddados@gmail.com) victor.ddados@gmail.com
+[![gmail|87](https://img.shields.io/badge/gmail-yellow?style=for-the-badge&logo=gmail)](victor.ddados@gmail.com)
 [![GitHub|92](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vitu-devs)
 
 ---
